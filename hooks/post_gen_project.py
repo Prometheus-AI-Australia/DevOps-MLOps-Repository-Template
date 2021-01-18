@@ -1,1 +1,0 @@
-# TODO: Remove unwanted directories / files (e.g. AWS directory).
