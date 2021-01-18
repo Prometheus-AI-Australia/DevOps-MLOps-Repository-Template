@@ -1,0 +1,18 @@
+Root Project Essentials:
+    [ ] README.md
+
+Cookiecutter Essentials:
+    [X] Makefile @started(21-01-18 20:01) @done(21-01-18 20:43) @lasted(42m4s)
+    [X] Pytest testing suite @done(21-01-18 20:49)
+    [X] Terraform / IaC @done(21-01-18 20:42)
+    [X] Source code formatting @done(21-01-18 20:00)
+    [X] README boilerplate @done(21-01-18 20:31)
+    [X] Default environment.yaml file @started(21-01-18 20:49) @done(21-01-18 20:53) @lasted(4m31s)
+
+Desirables:
+    [ ] Docker pytest mocks
+    [ ] Sphinx source code documentation generator
+    [ ] Git hook for autoformatting
+    [X] Configure differently if AWS or GCP selected @done(21-01-18 20:49)
+    [ ] Specify a particular python version in environment.yaml
+    [ ] Build scripts

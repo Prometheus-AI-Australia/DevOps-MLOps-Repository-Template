@@ -1,0 +1,9 @@
+{
+    "project_name": "ML Project",
+    "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '_') }}",
+    "backend": [
+        "local",
+        "aws",
+        "gcp"
+    ]
+}

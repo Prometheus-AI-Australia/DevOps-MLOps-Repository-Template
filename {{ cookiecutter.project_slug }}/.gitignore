@@ -1,0 +1,13 @@
+# IDE configuration
+.vscode/
+
+# Python
+__pycache__/
+.pytest_cache/
+
+# Terraform
+*.tfstate
+.terraform
+
+# Project-Specific ignores
+architecture.png
