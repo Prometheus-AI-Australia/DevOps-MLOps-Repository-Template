@@ -8,5 +8,5 @@ You can instantiates your own copy of this template using python's
 to do that, simply run:
 
 ```bash
-cookiecutter https://github.com/...
+cookiecutter https://github.com/Prometheus-AI-Australia/DevOps-MLOps-Repository-Template.git
 ```
